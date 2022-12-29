@@ -1,8 +1,8 @@
 import smtplib
 
 
-mail = ""
-password = ""
+mail = "test"
+password = "Test"
 
 
 # Ask user fo email they want to send email to
